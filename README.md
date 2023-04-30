@@ -24,6 +24,10 @@
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=alan1996colo)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alan1996colo&hide=TeX&layout=compact)
+
+**Gracias por tu visita!**  
+![](https://komarev.com/ghpvc/?username=alan1996colo)   
+
 <h3 align="left">Contactame:</h3>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/alan1996colo) 
