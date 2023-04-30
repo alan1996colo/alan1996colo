@@ -5,6 +5,7 @@
 - He trabajado con diversas distribuciones Linux, incluyendo Debian, Ubuntu, Lubuntu, Xubuntu, Linux Mint, entre otras.
 
 - Tengo conocimientos en science y data analytics con Python, pandas y Jupyter Notebook, lo que me permite comprender y analizar datos para tomar decisiones informadas y crear soluciones efectivas.
+- Actualmente estoy estudiando la carrera de Licenciatura en sistemas en la [Universidad Nacional General Sarmiento](https://www.ungs.edu.ar/)
 
 
 ## 🚀💻 Technologies & Tools
