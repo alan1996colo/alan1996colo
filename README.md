@@ -1,11 +1,12 @@
-<h1 align = "justify"> Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Soy Alan</h1>  
+<h1 align="justify">Hola 👋, Soy Alan</h1>
 
-- <p align = "justify">Soy un desarrollador de software con amplia experiencia en programación orientada a objetos con Java, así como en otros lenguajes de programación como Python, C, C+ y ensamblador IA32 e IA64.</p>  
+- <p align="justify"> Soy un desarrollador de software con experiencia principalmente en <b>Python</b> y <b>Java</b>, además de <b>C, C++, JavaScript, PHP y SQL</b>. También cuento con conocimientos de ensamblador <b>IA-32/IA-64</b>. </p>
 
-- He trabajado con diversas distribuciones Linux, incluyendo Debian, Ubuntu, Lubuntu, Xubuntu, Linux Mint, entre otras.
+- <p align="justify"> He trabajado en el desarrollo de <b>APIs, aplicaciones backend, procesamiento de datos y sistemas distribuidos</b>, utilizando tecnologías como <b>Django, Django REST Framework, Django Ninja, Celery, Pydantic, PostgreSQL, Redis y WebSockets</b>. </p>
 
-- Tengo conocimientos en science y data analytics con Python, pandas y Jupyter Notebook, lo que me permite comprender y analizar datos para tomar decisiones informadas y crear soluciones efectivas.
-- Actualmente estoy estudiando la carrera de Licenciatura en sistemas en la [Universidad Nacional General Sarmiento](https://www.ungs.edu.ar/)
+- <p align="justify"> También tengo experiencia con <b>Docker, Git, GitLab CI/CD, Traefik, Sentry, Drupal, Composer y Drush</b>, además de trabajar habitualmente con distintas distribuciones <b>Linux</b>. </p>
+
+- <p align="justify"> Actualmente estudio la carrera de <b>Licenciatura en Sistemas</b> en la <a href="https://www.ungs.edu.ar/">Universidad Nacional de General Sarmiento</a>. </p>
 
 
 ## 🚀💻 Technologies & Tools
